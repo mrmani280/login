@@ -55,8 +55,8 @@ logo = """
 \033[0;39m██║╚██╔╝██║██╔══██║██║╚████║██║
 \033[0;39m██║░╚═╝░██║██║░░██║██║░╚███║██║
 \033[0;39m╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝
-\033[0;39m▬▬▬▬▬▬▬▬▬▬Mr-Mani®▬▬▬▬▬▬▬
-\033[0;39m✓Author    : Mister Mani
+\033[0;39m▬▬▬▬▬▬▬▬▬▬Mr-Mani©▬▬▬▬▬▬▬
+\033[0;39m✓Author    : Mister Mani©
 \033[0;39m✓Facebook  : facebook.com/memeskaghaar
 \033[0;39m✓Version   : Direct Login (1.0)
 \033[0;39m✓Help      : Contact me on Facebook
